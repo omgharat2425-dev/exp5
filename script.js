@@ -6,7 +6,7 @@ $.ajax({
 url:"data.json",
 method:"GET",
 success:function(data){
-dataList = data.food items;
+dataList = data.Dishes;
 }
 });
 
