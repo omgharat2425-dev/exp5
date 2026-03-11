@@ -6,7 +6,7 @@ $.ajax({
 url:"data.json",
 method:"GET",
 success:function(data){
-dataList = data.dishes;
+dataList = data.languages;
 }
 });
 
